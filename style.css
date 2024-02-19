@@ -1,0 +1,55 @@
+body {
+    background-image: url(Assets/photo.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    min-height: 100vh;
+    font-family: 'Dancing Script', cursive;
+    overflow: hidden;
+}
+
+.containerOne {
+    text-align: center;
+    margin-top: 200px;
+}
+
+#btn {
+    color: white;
+    font-size: 40px;
+    padding: 30px;
+    border-radius: 20px;
+    font-family: 'Dancing Script', cursive;
+    background-color: rgba(33, 53, 85, 0.7);
+}
+
+#btn:hover {
+    cursor: pointer;
+}
+
+.containerTwo {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+#par {
+    padding: 15px;
+    width: 70%;
+    height: 20%;
+    background-color: rgba(33, 53, 85, 0.7);
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 20px;
+    display: none;
+}
+@media all and (max-width: 500px) {
+    .containerOne {
+        margin-top: 20px;
+    }
+
+    .containerTwo {
+        margin-top: 15px;
+    } 
+}
