@@ -4,17 +4,11 @@ Welcome to FuturePrediction! This simple web application provides you with rando
 
 ## Table of Contents
 - [About the Project](#about-the-project)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
 ## About the Project
 FuturePrediction is a lighthearted project that generates random predictions to add a bit of excitement to your day. Whether you're looking for inspiration, amusement, or just a fun diversion, this application is here to provide you with a glimpse into the future.
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/FuturePrediction.git
 
 ## Usage
 1. Open index.html in your web browser.
