@@ -2,6 +2,10 @@
 
 Welcome to FuturePrediction! This simple web application provides you with random predictions about your future, adding a touch of mystery and fun to your day.
 
+## Live Demo
+
+You can check out the live version of this website [here](https://future-prediction.netlify.app/).
+
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Usage](#usage)
